@@ -1,6 +1,5 @@
 package com.atguigu.java1;
 
-import com.atguigu.java.Person;
 import org.junit.Test;
 
 import java.util.HashSet;
